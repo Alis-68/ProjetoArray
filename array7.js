@@ -47,4 +47,5 @@
 // console.log("Após adicionar HD:", produtos)
 // produtos.splice(1, 1, 'Cpu Rápida');
 // console.log("Após susbtituir:", produtos);
+// oi
 
